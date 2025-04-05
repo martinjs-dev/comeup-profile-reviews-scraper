@@ -193,7 +193,7 @@ async def main():
     parser = argparse.ArgumentParser(description='Scraper les avis depuis un profil ComeUp.')
     parser.add_argument('--url', '-u', type=str, 
                         help='URL du profil ComeUp (ex: https://comeup.com/fr/@username)',
-                        default="https://comeup.com/fr/@mdefaultusername")
+                        default="https://comeup.com/fr/@mdefaultusername/")
     
     # Parser les arguments
     args = parser.parse_args()
