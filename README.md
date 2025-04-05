@@ -1,4 +1,4 @@
-# ComeUp Reviews Scraper
+# ComeUp Profile Reviews Scraper
 
 Un outil en Python pour extraire automatiquement les avis clients de votre profil ComeUp ainsi que les réponses du vendeur.
 
