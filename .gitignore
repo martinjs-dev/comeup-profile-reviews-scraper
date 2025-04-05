@@ -23,5 +23,4 @@ data/
 .env
 
 # Dossier de données
-data/
 data/*
