@@ -1,0 +1,27 @@
+# Environnement virtuel
+venv/
+env/
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Fichiers de données générés
+data/
+
+# Logs et fichiers temporaires
+*.log
+.DS_Store
+.env
+
+# Dossier de données
+data/
+data/*
